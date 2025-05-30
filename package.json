@@ -1,0 +1,24 @@
+{
+  "name": "piv-pav",
+  "version": "1.0.0",
+  "description": "For lerning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitPasha40/piv-pav.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GitPasha40/piv-pav/issues"
+  },
+  "homepage": "https://github.com/GitPasha40/piv-pav#readme",
+  "dependencies": {
+    "sass": "^1.89.0"
+  }
+}
